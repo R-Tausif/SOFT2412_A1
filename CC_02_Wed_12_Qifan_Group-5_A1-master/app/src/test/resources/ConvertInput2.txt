@@ -1,0 +1,6 @@
+abc
+200
+ABC
+CNY
+ABC
+AUD
